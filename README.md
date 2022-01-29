@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with CIT NFT Collection React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -45,9 +45,14 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+### Why This App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+I built this dapp to have CIT NFT collections in a central place where NFT Collectors can connect and buy easily from a central store. They can also be viewed on Open Sea which is the testnet api that I used.
+
+### Tools Used
+I built this with ThirdWeb which maes it very easily to develope dapps , signed up and created a project . Visit Project on Third Web
+
+I added an NFT  Collection Module 
 
 ### Analyzing the Bundle Size
 
