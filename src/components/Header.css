@@ -1,0 +1,83 @@
+.header{
+    color: blanchedalmond;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header > div {
+    margin: 10px;
+}
+.myLogo{
+    width: 150px;
+}
+
+.searchBar {
+    background-color: #1C1C1E;
+    height: 50px;
+    flex: 1;
+    display: flex;
+    border-radius: 50px;
+    align-items: center;
+}
+
+.searchIcon {
+    margin: 10px;
+}
+
+.searchInput {
+    background-color: transparent;
+    border: none;
+    width: 100%;
+    outline: none;
+    color: yellow;
+    font-size: 18px;
+}
+
+.headerItems {
+    display: flex;
+    font-size: 18px;
+  
+}
+
+.headerItems > p > a {
+    text-decoration:none;
+    color: tomato;
+}
+.headerItems > p {
+    margin: 10px; 
+    cursor:pointer;  
+}
+
+.headerActions {
+    display: flex;
+    align-items: center;
+}
+
+.headerActions > div {
+    margin: 10px;
+}
+
+.themeSwitchContainer {
+    display: flex;
+    background-color: #1C1C1E;
+    border-radius: 50px;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+    object-fit: contain;
+}
+
+.themeSwitchContainer > img {
+    height: 25px;
+}
+
+.connect {
+    display: flex;
+    font-size: 18px;
+    background: linear-gradient(to right, rgba(221, 94, 10, 0.933), rgba(238, 215, 10, 0.933));
+    border-radius: 30px;
+    padding: 10px 30px;
+}
+
